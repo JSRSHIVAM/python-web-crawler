@@ -6,6 +6,7 @@ Libraries:
 BeautifulSoup
 urllib
 pymysql
+lxml
 
 Usage:
  Create MySql Database "crawler"
